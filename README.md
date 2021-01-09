@@ -1,2 +1,0 @@
-# studyScikitLearn
-Study sklearn
